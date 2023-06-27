@@ -1,1 +1,2 @@
 hello world!
+Welcome BSIT-2A to git and github
